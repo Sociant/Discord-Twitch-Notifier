@@ -1,0 +1,16 @@
+{
+  "name": "discord-twitch-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sociant WD",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "twitch-api-v5": "^2.0.4"
+  }
+}
